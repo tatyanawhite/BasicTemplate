@@ -1,5 +1,5 @@
 ---
-title: Carlisle Rising to Action
+title: Carlisle Rising
 timezone: America/New_York
 collections:
   posts:
@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Carlisle citizens resisting the Trump agenda through civic action.
+subtitle: Resisting Trump
 email: carlislerta@gmail.com
 baseurl: 
 url: 
