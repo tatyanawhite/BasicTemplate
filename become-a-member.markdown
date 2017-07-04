@@ -2,14 +2,19 @@
 title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_signup\">\n<form
-  action=\"//carlislerising.us15.list-manage.com/subscribe/post?u=659db63298cf9519484787201&amp;id=d82bfe5d03\"
+mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
+  rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
+  clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp
+  form style overrides in your site stylesheet or in this style block.\n\t   We recommend
+  moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
+  id=\"mc_embed_signup\">\n<form action=\"//carlislerising.us15.list-manage.com/subscribe/post?u=659db63298cf9519484787201&amp;id=d82bfe5d03\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
-  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n<div
-  class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-  type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
+  to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
+  indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
+  Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\"
+  name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
+  for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
@@ -131,19 +136,21 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   maxlength=\"3\" size=\"3\" value=\"\" type=\"text\"></span> - \n        <span class=\"phonedetail2\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
   maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n\t\t<span class=\"small-meta
-  nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group input-group\">\n
-  \   <strong>ACTION AREA PREFERENCES </strong><br>\n    <ul><input type=\"checkbox\"
-  value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
-  Rights </label><br/>\n<input type=\"checkbox\" value=\"4\" name=\"group[719][4]\"
-  id=\"mce-group[719]-719-2\"><label for=\"mce-group[719]-719-2\">Education</label><br>\n<input
+  nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group\">\n\t<label
+  for=\"mce-MMERGE6\">Untitled </label>\n\t<input type=\"text\" value=\"\" name=\"MMERGE6\"
+  class=\"\" id=\"mce-MMERGE6\">\n</div>\n<div class=\"mc-field-group input-group\">\n
+  \   <strong>Action Interests </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\"
+  name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
+  Rights</label></li>\n<li><input type=\"checkbox\" value=\"2\" name=\"group[719][2]\"
+  id=\"mce-group[719]-719-1\"><label for=\"mce-group[719]-719-1\">Elections</label></li>\n<li><input
+  type=\"checkbox\" value=\"4\" name=\"group[719][4]\" id=\"mce-group[719]-719-2\"><label
+  for=\"mce-group[719]-719-2\">Education</label></li>\n<li><input type=\"checkbox\"
+  value=\"8\" name=\"group[719][8]\" id=\"mce-group[719]-719-3\"><label for=\"mce-group[719]-719-3\">Healthcare</label></li>\n<li><input
   type=\"checkbox\" value=\"16\" name=\"group[719][16]\" id=\"mce-group[719]-719-4\"><label
-  for=\"mce-group[719]-719-4\">Healthcare</label><br>\n<input type=\"checkbox\" value=\"32\"
-  name=\"group[719][32]\" id=\"mce-group[719]-719-5\"><label for=\"mce-group[719]-719-5\">Environment</label><br>\n<input
+  for=\"mce-group[719]-719-4\">Environment</label></li>\n<li><input type=\"checkbox\"
+  value=\"32\" name=\"group[719][32]\" id=\"mce-group[719]-719-5\"><label for=\"mce-group[719]-719-5\">Immigration</label></li>\n<li><input
   type=\"checkbox\" value=\"64\" name=\"group[719][64]\" id=\"mce-group[719]-719-6\"><label
-  for=\"mce-group[719]-719-6\">Immigration</label><br>\n<input type=\"checkbox\" value=\"128\"
-  name=\"group[719][128]\" id=\"mce-group[719]-719-7\"><label for=\"mce-group[719]-719-7\">Foreign
-  policy</label><br>\n<input type=\"checkbox\" value=\"256\" name=\"group[719][256]\"
-  id=\"mce-group[719]-719-8\"><label for=\"mce-group[719]-719-8\">Science Policy</label>\n</ul>\n</div>\n\t<div
+  for=\"mce-group[719]-719-6\">Science Policy</label></li>\n</ul>\n</div>\n\t<div
   id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
   style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
   style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this
@@ -151,8 +158,11 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
   name=\"b_659db63298cf9519484787201_d82bfe5d03\" tabindex=\"-1\" value=\"\"></div>\n
   \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
-  mc_embed_signup-->"
+  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
+  type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
+  type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
+  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='address';fnames[4]='MMERGE4';ftypes[4]='phone';fnames[5]='SIGNUPAPI';ftypes[5]='date';fnames[6]='MMERGE6';ftypes[6]='text';}(jQuery));var
+  $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
 layout: becomeAMember
 ---
 
