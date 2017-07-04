@@ -126,7 +126,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   City State (Holy See)</option><option value=\"167\">Venezuela</option><option value=\"168\">Vietnam</option><option
   value=\"169\">Virgin Islands (British)</option><option value=\"238\">Virgin Islands
   (U.S.)</option><option value=\"188\">Western Sahara</option><option value=\"170\">Yemen</option><option
-  value=\"173\">Zambia</option><option value=\"174\">Zimbabwe</option></select>\n\t</div>\n</div><br>\n<div
+  value=\"173\">Zambia</option><option value=\"174\">Zimbabwe</option></select>\n\t</div>\n</div>\n<div
   class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE4\">Phone Number </label>\n
   \   <div class=\"phonefield phonefield-us\">\n        (<span class=\"phonearea\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-area\" name=\"MMERGE4[area]\"
@@ -134,12 +134,11 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail1\" name=\"MMERGE4[detail1]\"
   maxlength=\"3\" size=\"3\" value=\"\" type=\"text\"></span> - \n        <span class=\"phonedetail2\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
-  maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n\t\t<span class=\"small-meta
-  nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group input-group\">\n
-  \   <strong>Action Interests </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\"
-  name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
-  Rights</label></li>\n<li><input type=\"checkbox\" value=\"2\" name=\"group[719][2]\"
-  id=\"mce-group[719]-719-1\"><label for=\"mce-group[719]-719-1\">Elections</label></li>\n<li><input
+  maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n    </div>\n</div><div
+  class=\"mc-field-group input-group\">\n    <strong>Action Interests </strong>\n
+  \   <ul><li><input type=\"checkbox\" value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label
+  for=\"mce-group[719]-719-0\">Civil Rights</label></li>\n<li><input type=\"checkbox\"
+  value=\"2\" name=\"group[719][2]\" id=\"mce-group[719]-719-1\"><label for=\"mce-group[719]-719-1\">Elections</label></li>\n<li><input
   type=\"checkbox\" value=\"4\" name=\"group[719][4]\" id=\"mce-group[719]-719-2\"><label
   for=\"mce-group[719]-719-2\">Education</label></li>\n<li><input type=\"checkbox\"
   value=\"8\" name=\"group[719][8]\" id=\"mce-group[719]-719-3\"><label for=\"mce-group[719]-719-3\">Healthcare</label></li>\n<li><input
