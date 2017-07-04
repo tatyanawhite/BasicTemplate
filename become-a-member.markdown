@@ -130,7 +130,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   maxlength=\"3\" size=\"3\" value=\"\" type=\"text\"></span> - \n        <span class=\"phonedetail2\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
   maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n    </div>\n</div><div
-  class=\"mc-field-group input-group\">\n    <strong>Action Interests </strong>\n
+  class=\"mc-field-group input-group\">\n    <strong>Action Interests </strong><br>\n
   \   <ul><input type=\"checkbox\" value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label
   for=\"mce-group[719]-719-0\">Civil Rights</label><br>\n<input type=\"checkbox\"
   value=\"2\" name=\"group[719][2]\" id=\"mce-group[719]-719-1\"><label for=\"mce-group[719]-719-1\">Elections</label><br>\n<input
