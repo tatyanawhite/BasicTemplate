@@ -16,7 +16,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   class=\"mc-address-group\">\n\t<div class=\"mc-field-group\">\n\t    <label for=\"mce-MMERGE3-addr1\">Address
   \ <span class=\"asterisk\">*</span>\n</label>\n\t\t<input type=\"text\" value=\"\"
   maxlength=\"70\" name=\"MMERGE3[addr1]\" id=\"mce-MMERGE3-addr1\" class=\"required\">\n\t</div>\n\t<div
-  class=\"mc-field-group\">\n\t    <label for=\"mce-MMERGE3-addr2\">Address Line 2</label>\n\t\t<input
+  class=\"mc-field-group\">\n\t    <label for=\"mce-MMERGE3-addr2\">Address</label>\n\t\t<input
   type=\"text\" value=\"\" maxlength=\"70\" name=\"MMERGE3[addr2]\" id=\"mce-MMERGE3-addr2\">\t\t\n\t</div>\n\t<div
   class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-city\">City</label>\n\t\t<input
   type=\"text\" value=\"\" maxlength=\"40\" name=\"MMERGE3[city]\" id=\"mce-MMERGE3-city\"
@@ -129,29 +129,27 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail1\" name=\"MMERGE4[detail1]\"
   maxlength=\"3\" size=\"3\" value=\"\" type=\"text\"></span> - \n        <span class=\"phonedetail2\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
-  maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n\t\t<span class=\"small-meta
-  nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group input-group\">\n
-  \   <strong>Action Interests </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\"
-  name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
-  Rights</label></li>\n<li><input type=\"checkbox\" value=\"2\" name=\"group[719][2]\"
-  id=\"mce-group[719]-719-1\"><label for=\"mce-group[719]-719-1\">Elections</label></li>\n<li><input
+  maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n    </div>\n</div><div
+  class=\"mc-field-group input-group\">\n    <strong>Action Interests </strong>\n
+  \   <ul><input type=\"checkbox\" value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label
+  for=\"mce-group[719]-719-0\">Civil Rights</label><br>\n<input type=\"checkbox\"
+  value=\"2\" name=\"group[719][2]\" id=\"mce-group[719]-719-1\"><label for=\"mce-group[719]-719-1\">Elections</label><br>\n<input
   type=\"checkbox\" value=\"4\" name=\"group[719][4]\" id=\"mce-group[719]-719-2\"><label
-  for=\"mce-group[719]-719-2\">Education</label></li>\n<li><input type=\"checkbox\"
-  value=\"8\" name=\"group[719][8]\" id=\"mce-group[719]-719-3\"><label for=\"mce-group[719]-719-3\">Healthcare</label></li>\n<li><input
+  for=\"mce-group[719]-719-2\">Education</label><br>\n<input type=\"checkbox\" value=\"8\"
+  name=\"group[719][8]\" id=\"mce-group[719]-719-3\"><label for=\"mce-group[719]-719-3\">Healthcare</label><br>\n<input
   type=\"checkbox\" value=\"16\" name=\"group[719][16]\" id=\"mce-group[719]-719-4\"><label
-  for=\"mce-group[719]-719-4\">Environment</label></li>\n<li><input type=\"checkbox\"
-  value=\"32\" name=\"group[719][32]\" id=\"mce-group[719]-719-5\"><label for=\"mce-group[719]-719-5\">Immigration</label></li>\n<li><input
+  for=\"mce-group[719]-719-4\">Environment</label><br>\n<input type=\"checkbox\" value=\"32\"
+  name=\"group[719][32]\" id=\"mce-group[719]-719-5\"><label for=\"mce-group[719]-719-5\">Immigration</label><br>\n<input
   type=\"checkbox\" value=\"64\" name=\"group[719][64]\" id=\"mce-group[719]-719-6\"><label
-  for=\"mce-group[719]-719-6\">Science Policy</label></li>\n</ul>\n</div>\n\t<div
-  id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
-  style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
-  style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this
-  in and expect good things - do not remove this or risk form bot signups-->\n    <div
-  style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
-  name=\"b_659db63298cf9519484787201_d82bfe5d03\" tabindex=\"-1\" value=\"\"></div>\n
-  \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
-  mc_embed_signup-->"
+  for=\"mce-group[719]-719-6\">Science Policy</label><br>\n</ul>\n</div>\n\t<div id=\"mce-responses\"
+  class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div
+  class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n\t</div>
+  \   <!-- real people should not fill this in and expect good things - do not remove
+  this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\"
+  aria-hidden=\"true\"><input type=\"text\" name=\"b_659db63298cf9519484787201_d82bfe5d03\"
+  tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\"
+  value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n
+  \   </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
 layout: becomeAMember
 ---
 
