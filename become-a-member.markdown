@@ -187,7 +187,7 @@ When you sign up for our mailing list, you can join one or more action areas.  W
 * Create visibility.
 * Share information, resources, and expertise.
 * Combine efforts with others who share our concerns in the region, state, and country.
-* Connect our passion to where help is needed most, including outside Massachusetts.</li><br>
+* Connect our passion to where help is needed most, including outside Massachusetts.</ul><br>
 **Non-partisan, but Not Non-political.**  We welcome Republicans, Democrats, and Independents.  We are committed to this shared set of principles, not to a political party.  However, political action is needed and will be taken.<br>
 **No One Group Has All the Answers.**  We will look to others and to history for inspiration, ideas, and solutions.<br>
 **Seek to Understand Differences.**  We will engage openly and constructively with others who may have differing views.<br>
