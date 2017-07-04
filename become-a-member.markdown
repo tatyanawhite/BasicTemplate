@@ -9,11 +9,12 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
   id=\"mc_embed_signup\">\n<form action=\"//carlislerising.us15.list-manage.com/subscribe/post?u=659db63298cf9519484787201&amp;id=d82bfe5d03\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
-  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n<div
-  class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-  type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
+  to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
+  indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
+  Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\"
+  name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
+  for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
@@ -25,34 +26,35 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-city\">City</label>\n\t\t<input
   type=\"text\" value=\"\" maxlength=\"40\" name=\"MMERGE3[city]\" id=\"mce-MMERGE3-city\"
   class=\"required\">\n\t</div>\n\t<div class=\"mc-field-group size1of2\">\n\t    <label
-  for=\"mce-MMERGE3-state\">State</label>\n\t<input type=\"text\" value=\"\" maxlength=\"20\"
-  name=\"MMERGE3[state]\" id=\"mce-MMERGE3-state\" class=\"required\">\n\t</div>\n\t<div
-  class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-zip\">Zip Code</label>\n\t\t<input
-  type=\"text\" value=\"\" maxlength=\"10\" name=\"MMERGE3[zip]\" id=\"mce-MMERGE3-zip\"
-  class=\"required\">\n\t</div>\n\t<div class=\"mc-field-group size1of2\">\n\t    <label
-  for=\"mce-MMERGE3-country\">Country</label>\n\t\t<select name=\"MMERGE3[country]\"
-  id=\"mce-MMERGE3-country\" class=\"required\"><option value=\"164\" selected>USA</option><option
-  value=\"286\">Aaland Islands</option><option value=\"274\">Afghanistan</option><option
-  value=\"2\">Albania</option><option value=\"3\">Algeria</option><option value=\"178\">American
-  Samoa</option><option value=\"4\">Andorra</option><option value=\"5\">Angola</option><option
-  value=\"176\">Anguilla</option><option value=\"175\">Antigua And Barbuda</option><option
-  value=\"6\">Argentina</option><option value=\"7\">Armenia</option><option value=\"179\">Aruba</option><option
-  value=\"8\">Australia</option><option value=\"9\">Austria</option><option value=\"10\">Azerbaijan</option><option
-  value=\"11\">Bahamas</option><option value=\"12\">Bahrain</option><option value=\"13\">Bangladesh</option><option
-  value=\"14\">Barbados</option><option value=\"15\">Belarus</option><option value=\"16\">Belgium</option><option
-  value=\"17\">Belize</option><option value=\"18\">Benin</option><option value=\"19\">Bermuda</option><option
-  value=\"20\">Bhutan</option><option value=\"21\">Bolivia</option><option value=\"325\">Bonaire,
-  Saint Eustatius and Saba</option><option value=\"22\">Bosnia and Herzegovina</option><option
-  value=\"23\">Botswana</option><option value=\"181\">Bouvet Island</option><option
-  value=\"24\">Brazil</option><option value=\"180\">Brunei Darussalam</option><option
-  value=\"25\">Bulgaria</option><option value=\"26\">Burkina Faso</option><option
-  value=\"27\">Burundi</option><option value=\"28\">Cambodia</option><option value=\"29\">Cameroon</option><option
-  value=\"30\">Canada</option><option value=\"31\">Cape Verde</option><option value=\"32\">Cayman
-  Islands</option><option value=\"33\">Central African Republic</option><option value=\"34\">Chad</option><option
-  value=\"35\">Chile</option><option value=\"36\">China</option><option value=\"185\">Christmas
-  Island</option><option value=\"37\">Colombia</option><option value=\"204\">Comoros</option><option
-  value=\"38\">Congo</option><option value=\"183\">Cook Islands</option><option value=\"268\">Costa
-  Rica</option><option value=\"275\">Cote D'Ivoire</option><option value=\"40\">Croatia</option><option
+  for=\"mce-MMERGE3-state\">State/Province/Region</label>\n\t<input type=\"text\"
+  value=\"\" maxlength=\"20\" name=\"MMERGE3[state]\" id=\"mce-MMERGE3-state\" class=\"required\">\n\t</div>\n\t<div
+  class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-zip\">Postal
+  / Zip Code</label>\n\t\t<input type=\"text\" value=\"\" maxlength=\"10\" name=\"MMERGE3[zip]\"
+  id=\"mce-MMERGE3-zip\" class=\"required\">\n\t</div>\n\t<div class=\"mc-field-group
+  size1of2\">\n\t    <label for=\"mce-MMERGE3-country\">Country</label>\n\t\t<select
+  name=\"MMERGE3[country]\" id=\"mce-MMERGE3-country\" class=\"required\"><option
+  value=\"164\" selected>USA</option><option value=\"286\">Aaland Islands</option><option
+  value=\"274\">Afghanistan</option><option value=\"2\">Albania</option><option value=\"3\">Algeria</option><option
+  value=\"178\">American Samoa</option><option value=\"4\">Andorra</option><option
+  value=\"5\">Angola</option><option value=\"176\">Anguilla</option><option value=\"175\">Antigua
+  And Barbuda</option><option value=\"6\">Argentina</option><option value=\"7\">Armenia</option><option
+  value=\"179\">Aruba</option><option value=\"8\">Australia</option><option value=\"9\">Austria</option><option
+  value=\"10\">Azerbaijan</option><option value=\"11\">Bahamas</option><option value=\"12\">Bahrain</option><option
+  value=\"13\">Bangladesh</option><option value=\"14\">Barbados</option><option value=\"15\">Belarus</option><option
+  value=\"16\">Belgium</option><option value=\"17\">Belize</option><option value=\"18\">Benin</option><option
+  value=\"19\">Bermuda</option><option value=\"20\">Bhutan</option><option value=\"21\">Bolivia</option><option
+  value=\"325\">Bonaire, Saint Eustatius and Saba</option><option value=\"22\">Bosnia
+  and Herzegovina</option><option value=\"23\">Botswana</option><option value=\"181\">Bouvet
+  Island</option><option value=\"24\">Brazil</option><option value=\"180\">Brunei
+  Darussalam</option><option value=\"25\">Bulgaria</option><option value=\"26\">Burkina
+  Faso</option><option value=\"27\">Burundi</option><option value=\"28\">Cambodia</option><option
+  value=\"29\">Cameroon</option><option value=\"30\">Canada</option><option value=\"31\">Cape
+  Verde</option><option value=\"32\">Cayman Islands</option><option value=\"33\">Central
+  African Republic</option><option value=\"34\">Chad</option><option value=\"35\">Chile</option><option
+  value=\"36\">China</option><option value=\"185\">Christmas Island</option><option
+  value=\"37\">Colombia</option><option value=\"204\">Comoros</option><option value=\"38\">Congo</option><option
+  value=\"183\">Cook Islands</option><option value=\"268\">Costa Rica</option><option
+  value=\"275\">Cote D'Ivoire</option><option value=\"40\">Croatia</option><option
   value=\"276\">Cuba</option><option value=\"298\">Curacao</option><option value=\"41\">Cyprus</option><option
   value=\"42\">Czech Republic</option><option value=\"318\">Democratic Republic of
   the Congo</option><option value=\"43\">Denmark</option><option value=\"44\">Djibouti</option><option
@@ -134,7 +136,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   maxlength=\"3\" size=\"3\" value=\"\" type=\"text\"></span> - \n        <span class=\"phonedetail2\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
   maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n\t\t<span class=\"small-meta
-  nowrap\">(###) ###-####</span>\n    </div>\n<div class=\"mc-field-group input-group\">\n
+  nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group input-group\">\n
   \   <strong>Action Interests </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\"
   name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
   Rights</label></li>\n<li><input type=\"checkbox\" value=\"2\" name=\"group[719][2]\"
@@ -157,7 +159,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
   type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
   type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
-  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='address';fnames[4]='MMERGE4';ftypes[4]='phone';fnames[5]='SIGNUPAPI';ftypes[5]='date';fnames[6]='MMERGE6';ftypes[6]='text';}(jQuery));var
+  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='address';fnames[4]='MMERGE4';ftypes[4]='phone';fnames[5]='SIGNUPAPI';ftypes[5]='date';}(jQuery));var
   $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
 layout: becomeAMember
 ---
