@@ -5,12 +5,11 @@ position: 5
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_signup\">\n<form
   action=\"//carlislerising.us15.list-manage.com/subscribe/post?u=659db63298cf9519484787201&amp;id=d82bfe5d03\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
-  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
-  to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
-  indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
-  Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\"
-  name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n<div
+  class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
@@ -133,42 +132,41 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
   maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n\t\t<span class=\"small-meta
   nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group input-group\">\n
-  \   <strong>ACTION AREA PREFERENCES </strong>\n    <ul><li><input type=\"checkbox\"
+  \   <strong>ACTION AREA PREFERENCES </strong>\n    <ul><input type=\"checkbox\"
   value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
-  Rights (Racial Justice,  Women’s Rights, LGBTQ, etc.) Tolerance &amp;amp; Inclusion</label></li>\n<li><input
+  Rights (Racial Justice,  Women’s Rights, LGBTQ, etc.) Tolerance &amp;amp; Inclusion</label>\n<input
   type=\"checkbox\" value=\"2\" name=\"group[719][2]\" id=\"mce-group[719]-719-1\"><label
-  for=\"mce-group[719]-719-1\">Political Action: Elections 2018 &amp; 2020</label></li>\n<li><input
+  for=\"mce-group[719]-719-1\">Political Action: Elections 2018 &amp; 2020</label>\n<input
   type=\"checkbox\" value=\"4\" name=\"group[719][4]\" id=\"mce-group[719]-719-2\"><label
-  for=\"mce-group[719]-719-2\">Education</label></li>\n<li><input type=\"checkbox\"
-  value=\"8\" name=\"group[719][8]\" id=\"mce-group[719]-719-3\"><label for=\"mce-group[719]-719-3\">Economic
-  Issues:  Inequality, Opportunity &amp; Growth</label></li>\n<li><input type=\"checkbox\"
-  value=\"16\" name=\"group[719][16]\" id=\"mce-group[719]-719-4\"><label for=\"mce-group[719]-719-4\">Healthcare</label></li>\n<li><input
+  for=\"mce-group[719]-719-2\">Education</label>\n<input type=\"checkbox\" value=\"8\"
+  name=\"group[719][8]\" id=\"mce-group[719]-719-3\"><label for=\"mce-group[719]-719-3\">Economic
+  Issues:  Inequality, Opportunity &amp; Growth</label>\n<input type=\"checkbox\"
+  value=\"16\" name=\"group[719][16]\" id=\"mce-group[719]-719-4\"><label for=\"mce-group[719]-719-4\">Healthcare</label>\n<input
   type=\"checkbox\" value=\"32\" name=\"group[719][32]\" id=\"mce-group[719]-719-5\"><label
-  for=\"mce-group[719]-719-5\">Environment, energy and sustainability</label></li>\n<li><input
+  for=\"mce-group[719]-719-5\">Environment, energy and sustainability</label>\n<input
   type=\"checkbox\" value=\"64\" name=\"group[719][64]\" id=\"mce-group[719]-719-6\"><label
-  for=\"mce-group[719]-719-6\">Immigration Policy &amp; Refugee Relief</label></li>\n<li><input
+  for=\"mce-group[719]-719-6\">Immigration Policy &amp; Refugee Relief</label>\n<input
   type=\"checkbox\" value=\"128\" name=\"group[719][128]\" id=\"mce-group[719]-719-7\"><label
-  for=\"mce-group[719]-719-7\">Geopolitics – foreign policy and defense</label></li>\n<li><input
+  for=\"mce-group[719]-719-7\">Geopolitics – foreign policy and defense</label>\n<input
   type=\"checkbox\" value=\"256\" name=\"group[719][256]\" id=\"mce-group[719]-719-8\"><label
-  for=\"mce-group[719]-719-8\">Science Policy</label></li>\n<li><input type=\"checkbox\"
-  value=\"512\" name=\"group[719][512]\" id=\"mce-group[719]-719-9\"><label for=\"mce-group[719]-719-9\">Promoting
-  Civil Dialogue</label></li>\n<li><input type=\"checkbox\" value=\"1024\" name=\"group[719][1024]\"
+  for=\"mce-group[719]-719-8\">Science Policy</label>\n<input type=\"checkbox\" value=\"512\"
+  name=\"group[719][512]\" id=\"mce-group[719]-719-9\"><label for=\"mce-group[719]-719-9\">Promoting
+  Civil Dialogue</label>\n<input type=\"checkbox\" value=\"1024\" name=\"group[719][1024]\"
   id=\"mce-group[719]-719-10\"><label for=\"mce-group[719]-719-10\">Taking Care of
-  Yourself</label></li>\n<li><input type=\"checkbox\" value=\"2048\" name=\"group[719][2048]\"
-  id=\"mce-group[719]-719-11\"><label for=\"mce-group[719]-719-11\">Humor</label></li>\n<li><input
+  Yourself</label>\n<input type=\"checkbox\" value=\"2048\" name=\"group[719][2048]\"
+  id=\"mce-group[719]-719-11\"><label for=\"mce-group[719]-719-11\">Humor</label>\n<input
   type=\"checkbox\" value=\"4096\" name=\"group[719][4096]\" id=\"mce-group[719]-719-12\"><label
-  for=\"mce-group[719]-719-12\">State-level issues (Massachusetts)</label></li>\n<li><input
+  for=\"mce-group[719]-719-12\">State-level issues (Massachusetts)</label>\n<input
   type=\"checkbox\" value=\"8192\" name=\"group[719][8192]\" id=\"mce-group[719]-719-13\"><label
-  for=\"mce-group[719]-719-13\">WebsiteTestList</label></li>\n</ul>\n</div>\n\t<div
-  id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
-  style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
-  style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this
-  in and expect good things - do not remove this or risk form bot signups-->\n    <div
-  style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
-  name=\"b_659db63298cf9519484787201_d82bfe5d03\" tabindex=\"-1\" value=\"\"></div>\n
-  \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
-  mc_embed_signup-->"
+  for=\"mce-group[719]-719-13\">WebsiteTestList</label>\n</ul>\n</div>\n\t<div id=\"mce-responses\"
+  class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div
+  class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n\t</div>
+  \   <!-- real people should not fill this in and expect good things - do not remove
+  this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\"
+  aria-hidden=\"true\"><input type=\"text\" name=\"b_659db63298cf9519484787201_d82bfe5d03\"
+  tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\"
+  value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n
+  \   </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
 layout: becomeAMember
 ---
 
