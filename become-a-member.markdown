@@ -132,7 +132,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-detail2\" name=\"MMERGE4[detail2]\"
   maxlength=\"4\" size=\"4\" value=\"\" type=\"text\"></span>\n\t\t<span class=\"small-meta
   nowrap\">(###) ###-####</span>\n    </div>\n</div><div class=\"mc-field-group input-group\">\n
-  \   <strong>ACTION AREA PREFERENCES </strong>\n    <ul><input type=\"checkbox\"
+  \   <strong>ACTION AREA PREFERENCES </strong><br>\n    <ul><input type=\"checkbox\"
   value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
   Rights </label><br/>\n<input type=\"checkbox\" value=\"4\" name=\"group[719][4]\"
   id=\"mce-group[719]-719-2\"><label for=\"mce-group[719]-719-2\">Education</label><br>\n<input
