@@ -197,5 +197,3 @@ When you sign up for our mailing list, you can join one or more action areas.  W
 **We are Indivisible.**  We are affiliated with the national Indivisible movement (www.indivisibleguide.com) and subscribe to its guiding principles:<br>
 * Donald Trump’s agenda will take America backward and must be stopped.
 * In order to work together to achieve this goal, we must model the values of inclusion, respect, and fairness.
-
-**All are welcome.**
