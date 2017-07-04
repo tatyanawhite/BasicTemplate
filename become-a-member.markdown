@@ -2,12 +2,8 @@
 title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
-  rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
-  clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp
-  form style overrides in your site stylesheet or in this style block.\n\t   We recommend
-  moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
-  id=\"mc_embed_signup\">\n<form action=\"//carlislerising.us15.list-manage.com/subscribe/post?u=659db63298cf9519484787201&amp;id=d82bfe5d03\"
+mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_signup\">\n<form
+  action=\"//carlislerising.us15.list-manage.com/subscribe/post?u=659db63298cf9519484787201&amp;id=d82bfe5d03\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
   class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
   to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
@@ -171,11 +167,8 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
   name=\"b_659db63298cf9519484787201_d82bfe5d03\" tabindex=\"-1\" value=\"\"></div>\n
   \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
-  type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
-  type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
-  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='address';fnames[4]='MMERGE4';ftypes[4]='phone';fnames[5]='SIGNUPAPI';ftypes[5]='date';}(jQuery));var
-  $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
+  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
+  mc_embed_signup-->"
 layout: becomeAMember
 ---
 
