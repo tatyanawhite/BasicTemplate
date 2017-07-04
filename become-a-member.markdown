@@ -21,35 +21,34 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-city\">City</label>\n\t\t<input
   type=\"text\" value=\"\" maxlength=\"40\" name=\"MMERGE3[city]\" id=\"mce-MMERGE3-city\"
   class=\"required\">\n\t</div>\n\t<div class=\"mc-field-group size1of2\">\n\t    <label
-  for=\"mce-MMERGE3-state\">State/Province/Region</label>\n\t<input type=\"text\"
-  value=\"\" maxlength=\"20\" name=\"MMERGE3[state]\" id=\"mce-MMERGE3-state\" class=\"required\">\n\t</div>\n\t<div
-  class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-zip\">Postal
-  / Zip Code</label>\n\t\t<input type=\"text\" value=\"\" maxlength=\"10\" name=\"MMERGE3[zip]\"
-  id=\"mce-MMERGE3-zip\" class=\"required\">\n\t</div>\n\t<div class=\"mc-field-group
-  size1of2\">\n\t    <label for=\"mce-MMERGE3-country\">Country</label>\n\t\t<select
-  name=\"MMERGE3[country]\" id=\"mce-MMERGE3-country\" class=\"required\"><option
-  value=\"164\" selected>USA</option><option value=\"286\">Aaland Islands</option><option
-  value=\"274\">Afghanistan</option><option value=\"2\">Albania</option><option value=\"3\">Algeria</option><option
-  value=\"178\">American Samoa</option><option value=\"4\">Andorra</option><option
-  value=\"5\">Angola</option><option value=\"176\">Anguilla</option><option value=\"175\">Antigua
-  And Barbuda</option><option value=\"6\">Argentina</option><option value=\"7\">Armenia</option><option
-  value=\"179\">Aruba</option><option value=\"8\">Australia</option><option value=\"9\">Austria</option><option
-  value=\"10\">Azerbaijan</option><option value=\"11\">Bahamas</option><option value=\"12\">Bahrain</option><option
-  value=\"13\">Bangladesh</option><option value=\"14\">Barbados</option><option value=\"15\">Belarus</option><option
-  value=\"16\">Belgium</option><option value=\"17\">Belize</option><option value=\"18\">Benin</option><option
-  value=\"19\">Bermuda</option><option value=\"20\">Bhutan</option><option value=\"21\">Bolivia</option><option
-  value=\"325\">Bonaire, Saint Eustatius and Saba</option><option value=\"22\">Bosnia
-  and Herzegovina</option><option value=\"23\">Botswana</option><option value=\"181\">Bouvet
-  Island</option><option value=\"24\">Brazil</option><option value=\"180\">Brunei
-  Darussalam</option><option value=\"25\">Bulgaria</option><option value=\"26\">Burkina
-  Faso</option><option value=\"27\">Burundi</option><option value=\"28\">Cambodia</option><option
-  value=\"29\">Cameroon</option><option value=\"30\">Canada</option><option value=\"31\">Cape
-  Verde</option><option value=\"32\">Cayman Islands</option><option value=\"33\">Central
-  African Republic</option><option value=\"34\">Chad</option><option value=\"35\">Chile</option><option
-  value=\"36\">China</option><option value=\"185\">Christmas Island</option><option
-  value=\"37\">Colombia</option><option value=\"204\">Comoros</option><option value=\"38\">Congo</option><option
-  value=\"183\">Cook Islands</option><option value=\"268\">Costa Rica</option><option
-  value=\"275\">Cote D'Ivoire</option><option value=\"40\">Croatia</option><option
+  for=\"mce-MMERGE3-state\">State</label>\n\t<input type=\"text\" value=\"\" maxlength=\"20\"
+  name=\"MMERGE3[state]\" id=\"mce-MMERGE3-state\" class=\"required\">\n\t</div>\n\t<div
+  class=\"mc-field-group size1of2\">\n\t    <label for=\"mce-MMERGE3-zip\">Zip</label>\n\t\t<input
+  type=\"text\" value=\"\" maxlength=\"10\" name=\"MMERGE3[zip]\" id=\"mce-MMERGE3-zip\"
+  class=\"required\">\n\t</div>\n\t<div class=\"mc-field-group size1of2\">\n\t    <label
+  for=\"mce-MMERGE3-country\">Country</label>\n\t\t<select name=\"MMERGE3[country]\"
+  id=\"mce-MMERGE3-country\" class=\"required\"><option value=\"164\" selected>USA</option><option
+  value=\"286\">Aaland Islands</option><option value=\"274\">Afghanistan</option><option
+  value=\"2\">Albania</option><option value=\"3\">Algeria</option><option value=\"178\">American
+  Samoa</option><option value=\"4\">Andorra</option><option value=\"5\">Angola</option><option
+  value=\"176\">Anguilla</option><option value=\"175\">Antigua And Barbuda</option><option
+  value=\"6\">Argentina</option><option value=\"7\">Armenia</option><option value=\"179\">Aruba</option><option
+  value=\"8\">Australia</option><option value=\"9\">Austria</option><option value=\"10\">Azerbaijan</option><option
+  value=\"11\">Bahamas</option><option value=\"12\">Bahrain</option><option value=\"13\">Bangladesh</option><option
+  value=\"14\">Barbados</option><option value=\"15\">Belarus</option><option value=\"16\">Belgium</option><option
+  value=\"17\">Belize</option><option value=\"18\">Benin</option><option value=\"19\">Bermuda</option><option
+  value=\"20\">Bhutan</option><option value=\"21\">Bolivia</option><option value=\"325\">Bonaire,
+  Saint Eustatius and Saba</option><option value=\"22\">Bosnia and Herzegovina</option><option
+  value=\"23\">Botswana</option><option value=\"181\">Bouvet Island</option><option
+  value=\"24\">Brazil</option><option value=\"180\">Brunei Darussalam</option><option
+  value=\"25\">Bulgaria</option><option value=\"26\">Burkina Faso</option><option
+  value=\"27\">Burundi</option><option value=\"28\">Cambodia</option><option value=\"29\">Cameroon</option><option
+  value=\"30\">Canada</option><option value=\"31\">Cape Verde</option><option value=\"32\">Cayman
+  Islands</option><option value=\"33\">Central African Republic</option><option value=\"34\">Chad</option><option
+  value=\"35\">Chile</option><option value=\"36\">China</option><option value=\"185\">Christmas
+  Island</option><option value=\"37\">Colombia</option><option value=\"204\">Comoros</option><option
+  value=\"38\">Congo</option><option value=\"183\">Cook Islands</option><option value=\"268\">Costa
+  Rica</option><option value=\"275\">Cote D'Ivoire</option><option value=\"40\">Croatia</option><option
   value=\"276\">Cuba</option><option value=\"298\">Curacao</option><option value=\"41\">Cyprus</option><option
   value=\"42\">Czech Republic</option><option value=\"318\">Democratic Republic of
   the Congo</option><option value=\"43\">Denmark</option><option value=\"44\">Djibouti</option><option
@@ -123,7 +122,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   value=\"169\">Virgin Islands (British)</option><option value=\"238\">Virgin Islands
   (U.S.)</option><option value=\"188\">Western Sahara</option><option value=\"170\">Yemen</option><option
   value=\"173\">Zambia</option><option value=\"174\">Zimbabwe</option></select>\n\t</div>\n</div>\n<div
-  class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE4\">Phone Number </label>\n
+  class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE4\">Phone </label>\n
   \   <div class=\"phonefield phonefield-us\">\n        (<span class=\"phonearea\"><input
   class=\"phonepart \" pattern=\"[0-9]*\" id=\"mce-MMERGE4-area\" name=\"MMERGE4[area]\"
   maxlength=\"3\" size=\"3\" value=\"\" type=\"text\"></span>)\n        <span class=\"phonedetail1\"><input
