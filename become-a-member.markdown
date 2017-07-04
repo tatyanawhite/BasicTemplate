@@ -135,14 +135,14 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<div id=\"mc_embed_
   \   <strong>ACTION AREA PREFERENCES </strong>\n    <ul><input type=\"checkbox\"
   value=\"1\" name=\"group[719][1]\" id=\"mce-group[719]-719-0\"><label for=\"mce-group[719]-719-0\">Civil
   Rights </label><br/>\n<input type=\"checkbox\" value=\"4\" name=\"group[719][4]\"
-  id=\"mce-group[719]-719-2\"><label for=\"mce-group[719]-719-2\">Education</label>\n<input
+  id=\"mce-group[719]-719-2\"><label for=\"mce-group[719]-719-2\">Education</label><br>\n<input
   type=\"checkbox\" value=\"16\" name=\"group[719][16]\" id=\"mce-group[719]-719-4\"><label
-  for=\"mce-group[719]-719-4\">Healthcare</label>\n<input type=\"checkbox\" value=\"32\"
+  for=\"mce-group[719]-719-4\">Healthcare</label><br>\n<input type=\"checkbox\" value=\"32\"
   name=\"group[719][32]\" id=\"mce-group[719]-719-5\"><label for=\"mce-group[719]-719-5\">Environment</label><br>\n<input
   type=\"checkbox\" value=\"64\" name=\"group[719][64]\" id=\"mce-group[719]-719-6\"><label
   for=\"mce-group[719]-719-6\">Immigration</label><br>\n<input type=\"checkbox\" value=\"128\"
-  name=\"group[719][128]\" id=\"mce-group[719]-719-7\"><label for=\"mce-group[719]-719-7\">Geopolitics
-  – foreign policy</label><br>\n<input type=\"checkbox\" value=\"256\" name=\"group[719][256]\"
+  name=\"group[719][128]\" id=\"mce-group[719]-719-7\"><label for=\"mce-group[719]-719-7\">Foreign
+  policy</label><br>\n<input type=\"checkbox\" value=\"256\" name=\"group[719][256]\"
   id=\"mce-group[719]-719-8\"><label for=\"mce-group[719]-719-8\">Science Policy</label>\n</ul>\n</div>\n\t<div
   id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
   style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
