@@ -174,4 +174,27 @@ layout: becomeAMember
 
 Carlisle Rising to Action (CRTA) is a local advocacy group formed by Carlisle, Massachusetts, citizens and residents concerned about increased division and intolerance in our country and threats to core democratic principles such as equality, voting rights, freedom of the press, and transparency in government. The group is focused on action areas such as tolerance and civil discourse, environmental sustainability, refugee and immigration support, women’s rights, healthcare, and more. Thousands of similar grass roots organizations are being formed nationwide. CRTA is coordinating with other groups in our region on local, state, and national issues.
 
+## How We Work
+We’re organizing ourselves into action areas, typically 5–15 people who care passionately about an issue or related set of issues. We are using the Slack communications platform to enable collaborative work within and between these groups.
+When you sign up for our mailing list, you can join one or more action areas.  We’ll then send you an invitation to join Slack and connect directly with your fellow Carlisleans in your chosen action groups. CRTA also hosts a Facebook page for sharing of general information.
+
+## Our Guiding Principles
+**Carlisle Roots.**  We are residents of Carlisle, Massachusetts, and neighboring communities. Other folks with ties to Carlisle are also members.
+**Committed to “small-d” Democracy.**  We are concerned about increased division and intolerance in our country and threats to core democratic principles such as equal voting rights, freedom of the press, and transparency in government.
+**Act Local, Think Global.**  We will take actions in our local, regional, and larger communities that will have impact on the national and global levels.
+**Focus on Impact and Results.**  Our democracy today is threatened in ways and to a degree never seen before in our country’s history.  While removing this threat and restoring a healthier political environment is a long-term project, now is the time to begin having an impact.
+**Leverage and Connect.**  While we are rooted in Carlisle, we will reach outward to
+* Create visibility.
+* Share information, resources, and expertise.
+* Combine efforts with others who share our concerns in the region, state, and country.
+* Connect our passion to where help is needed most, including outside Massachusetts.
+**Non-partisan, but Not Non-political.**  We welcome Republicans, Democrats, and Independents.  We are committed to this shared set of principles, not to a political party.  However, political action is needed and will be taken.
+**No One Group Has All the Answers.**  We will look to others and to history for inspiration, ideas, and solutions.
+**Seek to Understand Differences.**  We will engage openly and constructively with others who may have differing views.
+**Positive:  We Go High.**  We will act with civility and respect always and with everyone.
+**Involve Families.**  We will engage all generations, including the young.
+**We are Indivisible.**  We are affiliated with the national Indivisible movement (www.indivisibleguide.com) and subscribe to its guiding principles:
+* Donald Trump’s agenda will take America backward and must be stopped.
+* In order to work together to achieve this goal, we must model the values of inclusion, respect, and fairness.
+
 **All are welcome.**
